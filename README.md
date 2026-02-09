@@ -1,4 +1,8 @@
 # Brancopan
+
+> **Note:** This is a standalone repository for the CAMERADACTYL BRANCOPAN build files with Git LFS support for large CAD files. 
+> Original repository: [LINK TO ORIGINAL REPO - TO BE ADDED]
+
 These are the build files for the CAMERADACTYL BRANCOPAN Panoramic Camera
 
 # Build Videos 
