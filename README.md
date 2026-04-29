@@ -1,5 +1,8 @@
 ---
 tags: [project, brancopan, readme, fabrication]
+status: prototype
+domain: code-tools
+repo: https://github.com/range-et/brancopan_wip
 ---
 
 # Brancopan
