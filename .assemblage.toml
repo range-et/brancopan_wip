@@ -1,0 +1,5 @@
+# Mirrored into Assemblage/_Projects/Brancopan/
+include = [
+    "README.md",
+]
+exclude = []
