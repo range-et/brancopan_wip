@@ -1,3 +1,7 @@
+---
+tags: [project, brancopan, readme, fabrication]
+---
+
 # Brancopan
 
 > **Note:** This is a standalone repository for the CAMERADACTYL BRANCOPAN build files with Git LFS support for large CAD files. 
