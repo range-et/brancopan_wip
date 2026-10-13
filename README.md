@@ -1,10 +1,3 @@
----
-tags: [project, brancopan, readme, fabrication]
-status: prototype
-domain: code-tools
-repo: https://github.com/range-et/brancopan_wip
----
-
 # Brancopan
 
 > **Note:** This is a standalone repository for the CAMERADACTYL BRANCOPAN build files with Git LFS support for large CAD files. 
